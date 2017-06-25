@@ -33,7 +33,7 @@ public:
 Singleton* Singleton::m_obj = nullptr;
 mutex Singleton::m_mtx;
 
-int main()
+int main1()
 {
 	cout << *Singleton::Instance() << endl;
 	return 0;
