@@ -1,2 +1,2 @@
 # LearnCS
-Learning Computer Science
+This Repo is for learning computer science. 
